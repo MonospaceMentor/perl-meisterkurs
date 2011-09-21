@@ -145,15 +145,16 @@ pre {
 	color:#442;
 }
 
-.quoteblock-content {
+.quoteblock {
 	font-style:italic;
 	color:#444;
 	margin-left:40px;
 }
 
-.quoteblock-content .attribution {
+.quoteblock .attribution {
 	font-style:normal;
 	text-align:right;
+	font-size:smaller;
 	color:#000;
 }
 

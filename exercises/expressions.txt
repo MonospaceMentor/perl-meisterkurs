@@ -1,0 +1,14 @@
+01:  $a=220; $b=11; $c=8; $string1="Hallo"; 
+        $string2="Welt";
+02:  $ergebnis = $b * $c;
+03:  $ergebnis = $b - $string2;
+04:  $d = $c . $string1;
+05:  $ergebnis = $b * $d;
+06:  $ergebnis = $a % $c;
+07:  $ergebnis = $b & $c;
+08:  $ergebnis = $a / ––$b;
+09:  $ergebnis = $string1 . $string2;
+10:  $ergebnis = $string2 x 2;
+11:  $ergebnis = ($b <= ($c + 2 + $b));
+12:  $ergebnis = ($string1 eq $b);
+13:  $b += 9;
